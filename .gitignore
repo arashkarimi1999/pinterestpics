@@ -1,0 +1,15 @@
+# database
+jobs/db.sqlite3
+
+# migration
+jobs/migrations/
+
+# virtual environment
+pinenv/
+
+# web driver
+chromedriver.exe
+
+items/
+pinterest_web_driver.py
+requierments/
