@@ -11,5 +11,4 @@ pinenv/
 chromedriver.exe
 
 items/
-pinterest_web_driver.py
 requierments/
