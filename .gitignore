@@ -10,5 +10,4 @@ pinenv/
 # web driver
 chromedriver.exe
 
-items/
 requierments/
